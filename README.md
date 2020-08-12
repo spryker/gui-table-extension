@@ -3,6 +3,8 @@
 
 GuiTableExtension module provides extension interfaces for GuiTable module.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
